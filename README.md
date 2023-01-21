@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=92F71A&center=true&width=435&lines=Hi%2C+I+am+Ali!;I+am+still+setting+up+this+page)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=92F71A&center=true&width=435&lines=Hi%2C+I+am+Ali!;I+am+still+setting+up+this+page" alt="Typing SVG" /></a>
 <!--
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=92F71A&width=435&lines=Hi%2C+I+am+Ali!" alt="Typing SVG" /></a>
 Here are some ideas to get you started:
