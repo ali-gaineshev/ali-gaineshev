@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">A passionate backend developer in Victoria, Canada</h3>
 
-- 🔭 I’m currently working on [Pet Scheduler](https://github.com/ali-gaineshev/Pet-Scheduler)
+- 🔭 I’m currently working on [Pet Scheduler](https://github.com/ali-gaineshev/Pet-Scheduler) and [Finance](https://github.com/ali-gaineshev/finance)
 
 - 🌱 I’m currently learning **Typescript, React**
 
