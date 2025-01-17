@@ -9,9 +9,7 @@
 
 - ⚡ My hobbies are **Climbing, Fencing, Volleyball and Ping Pong**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<h3 align="left">Stats</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ali-gaineshev&show_icons=true&locale=en&layout=compact" alt="ali-gaineshev" /></p>
 
